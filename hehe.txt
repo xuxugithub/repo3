@@ -1,3 +1,7 @@
 aasasasa
 ssss
+<<<<<<< HEAD
 bbbbbbbbbbbbbb
+
+bbbbb
+
